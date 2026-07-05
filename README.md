@@ -1,4 +1,4 @@
-# Adventure Works Sales Analysis
+# Adventure Works Sales Analysis SQL
 
 ## **1. Project Overview**
 
