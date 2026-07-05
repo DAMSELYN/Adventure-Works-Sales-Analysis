@@ -58,7 +58,7 @@ Multiple SQL queries answered critical business questions, revealing customer be
 - Subqueries
 - SQL views created for each business question answered
 
-<u>Key insights:</u>
+<u>Analysis insights:</u>
 
 - **High-value customers:** 10 customers spent over $10,000, with top spenders spending around $12,000.
 - **Revenue by product category:** Bikes generated over $23.6M, Accessories $906K, Clothing $365K.
@@ -78,22 +78,60 @@ Customer order analysis: Customers with high order counts, including the top 5.
 Return analysis: Top 10 returned products, with total return quantities and revenue impact.
 
 6. Key Insights & Recommendations
+
 Analysis revealed high-value customers, frequent repeat purchases, and products with high return rates.
-• Customers with orders > $10,000 include Maurice Shaw (12.4K), Janet Munoz (12.0K), Lisa Cai (11.3K), Lacey Zheng (11.1K), and Jordan Turner (11.0K).
-• Largest customer occupations in 2021:
-– Professional (3.3K), Skilled Manual (2.4K), Management (1.8K).
-• Most ordered products more than once:
-– Water Bottle 30 oz (8K), Patch Kit (5.9K), Mountain Tire Tube (5.7K).
-• Top products returned:
-– Water Bottle 30 oz (33), Sport‑100 Helmet Blue (27), Patch Kit (22).
-• Highest return revenue:
-– Sport‑100 Helmet (73K, 67K, 65K).
-• Top customers by total orders:
-– Ashley Henderson (45), Fernando Borges (45), Jennifer Simpson (40).
-Recommendations:
-Based on insights, strategic actions include loyalty programs, targeted marketing, inventory management, quality control, and personalized offers.
+
+<u>Key insights:</u>
+
+
+Customers with orders over $10,000: Maurice Shaw ($12.4K), Janet Munoz ($12.0K), Lisa Cai ($11.3K), Lacey Zheng ($11.1K), and Jordan Turner ($11.0K).
+Largest customer occupations in 2021:
+
+Professional (3.3K)
+Skilled Manual (2.4K)
+Management (1.8K)
+
+
+
+Most ordered products (more than once):
+
+Water Bottle 30 oz (8K)
+Patch Kit (5.9K)
+Mountain Tire Tube (5.7K)
+
+
+
+Top returned products:
+
+Water Bottle 30 oz (33)
+Sport-100 Helmet Blue (27)
+Patch Kit (22)
+
+
+
+Highest return revenue:
+
+Sport-100 Helmet ($73K, $67K, $65K)
+
+
+
+Top customers by total orders:
+
+Ashley Henderson (45)
+Fernando Borges (45)
+Jennifer Simpson (40)
+
+
+
+
+
+<u>Recommendations:</u>
+
+Based on these insights, the following strategic actions are recommended:
+
+
 Launch loyalty or VIP programs to retain high-value customers.
-Focus marketing on the top occupation segments like Skilled Manual and Professional.
+Focus marketing efforts on top occupation segments such as Skilled Manual and Professional.
 Increase stock levels for high-repeat products to meet demand.
 Investigate quality issues in returned products to reduce future returns.
-Offer personalized discounts and relationship management to top customers.
+Offer personalized discounts and relationship management for top customers.
