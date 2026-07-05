@@ -76,8 +76,8 @@ Product demand: Products ordered at least once, with total quantities.
 Product categories: Items starting with "C" or "H" in Clothing.
 Customer order analysis: Customers with high order counts, including the top 5.
 Return analysis: Top 10 returned products, with total return quantities and revenue impact.
-
-6. Key Insights & Recommendations
+---
+## **6. Key Insights & Recommendations**
 
 Analysis revealed high-value customers, frequent repeat purchases, and products with high return rates.
 
@@ -123,9 +123,9 @@ Jennifer Simpson (40)
 
 
 
+---
 
-
-<u>Recommendations:</u>
+## **Recommendations:**
 
 Based on these insights, the following strategic actions are recommended:
 
